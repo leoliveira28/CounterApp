@@ -1,0 +1,31 @@
+
+.content {
+    margin-top: 50px;
+    display: flex;
+    width: 100%;
+    height: vh;
+    justify-content: center;
+    flex-wrap: wrap;
+    border: 1px solid #ccc;
+ 
+}
+button {
+    
+    border: 0;
+    padding: 20px;
+    margin: 30px;
+    cursor: pointer;
+    background: rgb(109, 53, 182);
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    
+    
+}
+
